@@ -104,6 +104,7 @@ Starting Point
 * [Kubernetes explained](https://blog.brainboard.co/kubernetes-explained-dde470707cb2)
 * [How to Manage Secrets in Kubernetes – A Complete Guide](https://spacelift.io/blog/kubernetes-secrets)
 * [Kubernetes Concepts: Deep Dive](https://dev.to/idanref/kubernetes-concepts-deep-dive-50en) by [Idan Refaeli](https://www.linkedin.com/in/idan-refaeli-65082a175/)
+* [Learn Docker in a Month of Lunches, Second Edition](https://www.manning.com/books/learn-docker-in-a-month-of-lunches-second-edition) by [Elton Stoneman](https://github.com/sixeyed/dockerfiles-linux)
 
 Contributing
 =======================================================================
